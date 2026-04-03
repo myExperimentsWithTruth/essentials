@@ -4,11 +4,11 @@ A minimal, dumb phone launcher for iPhone. Built with SwiftUI.
 
 Strip your phone back to what matters — no icons, no colors, no distractions. Just text, time, and the few apps you actually need.
 
-## Screenshots
+## Screenshot
 
-| Dark | E-Ink | OLED |
-|------|-------|------|
-| `#121212` bg, white text | Warm paper, dark text | Pure black, muted text |
+<p align="center">
+  <img src="screenshots/home-dark.png" alt="essentials — dark theme" width="300">
+</p>
 
 ## Features
 
