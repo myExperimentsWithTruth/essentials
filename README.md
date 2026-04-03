@@ -7,11 +7,11 @@ Strip your phone back to what matters — no icons, no colors, no distractions. 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home-dark.png" alt="essentials — home" width="250">
-  &nbsp;&nbsp;
-  <img src="screenshots/settings-eink.png" alt="essentials — e-ink theme" width="250">
-  &nbsp;&nbsp;
-  <img src="screenshots/settings-oled.png" alt="essentials — power saver theme" width="250">
+  <img src="screenshots/home-dark.png" alt="essentials — home" width="150">
+  &nbsp;
+  <img src="screenshots/settings-eink.png" alt="essentials — e-ink theme" width="150">
+  &nbsp;
+  <img src="screenshots/settings-oled.png" alt="essentials — power saver theme" width="150">
 </p>
 
 ## Features
