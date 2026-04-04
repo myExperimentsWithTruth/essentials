@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>NSContactsUsageDescription</key>
-	<string>essentials needs contacts access to make calls</string>
+	<string>eight needs contacts access to make calls</string>
 	<key>NSCameraUsageDescription</key>
-	<string>essentials needs camera access to take photos</string>
+	<string>eight needs camera access to take photos and videos</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>essentials needs photo library access to save photos</string>
+	<string>eight needs photo library access to save photos and videos</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>tel</string>

@@ -159,7 +159,7 @@ struct ContentView: View {
                 // Footer
                 HStack(alignment: .bottom) {
                     VStack(alignment: .leading, spacing: 2) {
-                        Text("crafted with Claude")
+                        Text("crafted with claude")
                             .font(.system(size: 11, weight: .light, design: .serif))
                             .italic()
                             .foregroundColor(theme.colors.dimText.opacity(0.5))
